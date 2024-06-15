@@ -42,7 +42,7 @@ function renderLicenseBadge(license) {
 
   
   ## Questions
-  Any questions contact me [here](mailto:${data.email}) or check [github/${data.github}](https://github.com/${data.github}).
+  Any questions contact me [here](mailto:${data.email}) or check ${data.github}.
   `;
   }
   

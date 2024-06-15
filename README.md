@@ -31,5 +31,5 @@
 
   
   ## Questions
-  Any questions contact me [here](mailto:adrianc.rm0@gmail.com) or check [github/https://github.com/carlos-roma](https://github.com/https://github.com/carlos-roma).
+  Any questions contact me [here](mailto:adrianc.rm0@gmail.com) or check [https://github.com/carlos-roma](https://github.com/carlos-roma).
   
