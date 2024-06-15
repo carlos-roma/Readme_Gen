@@ -28,7 +28,7 @@ function renderLicenseBadge(license) {
   ${data.install}
   
   ## How to Use This Application
-  ${data.usage}
+  ${data.how_to_use}
   
   ## Contributors
   ${data.contributors}
@@ -37,8 +37,8 @@ function renderLicenseBadge(license) {
   ${data.testing}
   
   ## Deployed Application URL
-  ${data.link}
-  
+  ${data.url}
+
 
   
   ## Questions
