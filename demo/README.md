@@ -11,16 +11,16 @@
   * [Questions](#questions)
   
   ## Description
-  A cli application that present the user with a series of questions to create a README file based on the answers
+  A cli app that creates readme files based on user input
   
   ## Installation
-  Clone the repo, pull the files, install dependencies and run index.js
+  This is a demo video
   
   ## How to Use This Application
-  Follow the instructions and answer the questions.
+  Follow the instructions and anser the questions
   
   ## Contributors
-  Personal project
+  Personal Project
   
   ## Testing
   N/A
@@ -31,5 +31,5 @@
 
   
   ## Questions
-  Any questions contact me [here](mailto:adrianc.rm0@gmail.com) or check [github/https://github.com/carlos-roma](https://github.com/https://github.com/carlos-roma).
+  Any questions contact me [here](mailto:adrianc.rm0@gmail.com) or check https://github.com/carlos-roma.
   
