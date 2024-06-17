@@ -1,4 +1,4 @@
-# Readme Generator
+# New Project
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Table of Contents
@@ -14,13 +14,13 @@
   A cli application that present the user with a series of questions to create a README file based on the answers
   
   ## Installation
-  Clone the repo, pull the files, install dependencies and run index.js
+  1)Clone the repo 2)Extract the files 3)Install dependecies 4)Run index.js
   
   ## How to Use This Application
   Follow the instructions and answer the questions.
   
   ## Contributors
-  Personal project
+  Personal Project
   
   ## Testing
   N/A
@@ -31,5 +31,5 @@
 
   
   ## Questions
-  Any questions contact me [here](mailto:adrianc.rm0@gmail.com) or check [github/https://github.com/carlos-roma](https://github.com/https://github.com/carlos-roma).
+  Any questions contact me [here](mailto:adrianc.rm0@gmail.com) or check https://github.com/carlos-roma/.
   
