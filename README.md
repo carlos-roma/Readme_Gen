@@ -14,8 +14,14 @@
   A cli application that present the user with a series of questions to create a README file based on the answers
   
   ## Installation
-  1)Clone the repo 2)Extract the files 3)Install dependecies 4)Run index.js
-  
+  1)Clone the repo 
+  2)Extract the files
+  3)Install dependecies 
+  4)Run index.js
+
+  ## Screenshot 
+  ![Screenshot (285)](https://github.com/carlos-roma/Readme_Gen/assets/68045584/92c254b6-e4eb-44dc-92c7-ddfee9a062b9)
+
   ## How to Use This Application
   Follow the instructions and answer the questions.
   
